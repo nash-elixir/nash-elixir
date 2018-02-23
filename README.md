@@ -1,4 +1,4 @@
-# nash-elixir
+# NashElixir
 The home for NashElixir, Nashville's Elixir meetup.
 
 ## Meetups
