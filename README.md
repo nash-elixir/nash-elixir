@@ -2,6 +2,7 @@
 The home for NashElixir, Nashville's Elixir meetup.
 
 ## Meetups
+* 2018-03-20 - [Distribution with Swarm](https://github.com/BrendonPierson/distributed_elixir_demo)
 * 2018-02-20 - Lightning Talks
   * [Defguard Examples](https://github.com/aoswalt/defguard-examples)
   * [Enum vs Stream](https://github.com/aoswalt/enum-vs-stream)
