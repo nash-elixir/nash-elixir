@@ -2,6 +2,7 @@
 The home for NashElixir, Nashville's Elixir meetup.
 
 ## Meetups
+* 2018-07-17 - [HCA's HL7 Library](https://github.com/HCA-Healthcare/elixir-hl7)
 * 2018-06-19 - Lightning Talks
   * [Transmute](https://github.com/aoswalt/transmute)
   * [SOAP Method](https://gist.github.com/aoswalt/599b324398167e7b6bfe0c6a175ff5cc)
