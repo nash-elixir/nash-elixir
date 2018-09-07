@@ -2,6 +2,7 @@
 The home for NashElixir, Nashville's Elixir meetup.
 
 ## Meetups
+* 2018-08-21 - Four Keynotes with Bruce Tate
 * 2018-07-17 - [HCA's HL7 Library](https://github.com/HCA-Healthcare/elixir-hl7)
 * 2018-06-19 - Lightning Talks
   * [Transmute](https://github.com/aoswalt/transmute)
