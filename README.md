@@ -2,6 +2,11 @@
 The home for NashElixir, Nashville's Elixir meetup.
 
 ## Meetups
+* 2018-09-18 - Lightning Talks and Show-and-Tells
+  * [An Example of OK](https://github.com/andersonmcook/ok_example/blob/master/lib/ok_example.ex)
+  * [Observer On A Remote Node](https://tkowal.wordpress.com/2016/04/23/observer-in-erlangelixir-release/)
+  * [Texas at 120fps](https://www.youtube.com/watch?v=R41o4_KEV8g)
+  * [Overriding Phoenix View Options](https://hexdocs.pm/phoenix/Phoenix.View.html#__using__/1-options)
 * 2018-08-21 - Four Keynotes with Bruce Tate
 * 2018-07-17 - [HCA's HL7 Library](https://github.com/HCA-Healthcare/elixir-hl7)
 * 2018-06-19 - Lightning Talks
